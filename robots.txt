@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modmase.vercel.app/sitemap.xml
